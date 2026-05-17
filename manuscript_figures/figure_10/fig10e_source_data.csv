@@ -1,0 +1,21 @@
+"sample","celltype","condition","n","pct"
+"K74_Control","Holoclone","SQ-FL",1055,17.7789012470509
+"K74_Control","Meroclone","SQ-FL",2206,37.1755982473879
+"K74_Control","Paraclone","SQ-FL",933,15.7229524772497
+"K74_Control","Terminal Diff.1","SQ-FL",1010,17.020559487698
+"K74_Control","Terminal Diff.2","SQ-FL",730,12.3019885406134
+"K74_Stressed","Holoclone","LQ-FL",319,12.3213595983005
+"K74_Stressed","Meroclone","LQ-FL",822,31.7497103128621
+"K74_Stressed","Paraclone","LQ-FL",536,20.7029741212823
+"K74_Stressed","Terminal Diff.1","LQ-FL",450,17.3812282734647
+"K74_Stressed","Terminal Diff.2","LQ-FL",462,17.8447276940904
+"K86_Control","Holoclone","SQ-FL",766,17.4011812812358
+"K86_Control","Meroclone","SQ-FL",1788,40.6179009541118
+"K86_Control","Paraclone","SQ-FL",879,19.9681962744207
+"K86_Control","Terminal Diff.1","SQ-FL",503,11.4266242616992
+"K86_Control","Terminal Diff.2","SQ-FL",466,10.5860972285325
+"K86_Stressed","Holoclone","LQ-FL",19,10.1063829787234
+"K86_Stressed","Meroclone","LQ-FL",90,47.8723404255319
+"K86_Stressed","Paraclone","LQ-FL",34,18.0851063829787
+"K86_Stressed","Terminal Diff.1","LQ-FL",15,7.97872340425532
+"K86_Stressed","Terminal Diff.2","LQ-FL",30,15.9574468085106
